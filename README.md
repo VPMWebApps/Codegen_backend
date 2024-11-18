@@ -27,3 +27,4 @@ Dev Effort required in foll areas:
 1. Architect , product owner, dev leads, techno-functional spocs - Discuss and finalize standards - exception model, http status codes, number of microservices, OpenApi spec structure, Backend Tech stack, **WRITING THE OPENAPI SPEC**.
 2. Developers - Moustache template customization, Spectral linting rules ( if required - for standard naming convention for schema fields , type checking )
 3. Developers/Dev Lead/ Architect - SwaggerHub - GitHub integration , github workflow design + setup for automated code generation, security
+4. Dev effort - Writing the service layer logic - transformations, utilities, constants
